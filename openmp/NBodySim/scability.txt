@@ -1,0 +1,6 @@
+Threads provide access for the programs to effectively scale the processing speed. 
+With the given simulation environment, we implemented the simulation for 4 different number of threads value.
+Thread count 1, 2, 4 and 8 were used independently.
+As can be seen from the simulation_log.txt file it is seen that as the number of threads increases, the time taken for the simulation to run per time step decreases. But this is scalable till a limit, from where it isn't really in the hands of threads for accelerating the program. 
+The fastest processing was for 4 threads with the slowest for using 1 thread. 
+Thus, threads can be used to scale the programs

@@ -1,0 +1,28 @@
+CPU: Linux cpusrv-cgpu-114.cse.iitkgp.ac.in 3.10.0-693.5.2.el7.x86_64 #1 SMP x86_64 x86_64 x86_64 GNU/Linux
+Processor Count: 48 
+Clock Speed: 2.4GHz
+Threads used: 8
+Time per step: 0.0509
+Total simulation time: 33601
+
+CPU: Linux cpusrv-cgpu-114.cse.iitkgp.ac.in 3.10.0-693.5.2.el7.x86_64 #1 SMP x86_64 x86_64 x86_64 GNU/Linux
+Processor Count: 48 
+Clock Speed: 2.4GHz
+Threads used: 4
+Time per step: 0.0439
+Total simulation time: 29608
+
+CPU: Linux cpusrv-cgpu-114.cse.iitkgp.ac.in 3.10.0-693.5.2.el7.x86_64 #1 SMP x86_64 x86_64 x86_64 GNU/Linux
+Processor Count: 48
+Clock Speed: 2.4GHz
+Threads used: 2
+Time per step: 0.0511
+Total simulation time: 32670
+
+CPU: Linux cpusrv-cgpu-114.cse.iitkgp.ac.in 3.10.0-693.5.2.el7.x86_64 #1 SMP x86_64 x86_64 x86_64 GNU/Linux
+Processor Count: 48
+Clock Speed: 2.4GHz
+Threads used: 1
+Time per step: 0.081
+Total simulation time: 53820
+
